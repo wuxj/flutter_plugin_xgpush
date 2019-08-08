@@ -2,7 +2,7 @@ name: flutter_plugin
 description: A new Flutter plugin.
 version: 0.0.1
 author: "wuxj<780185916@qq.com>"
-homepage: "https://github.com/wuxj/"
+homepage: "https://github.com/wuxj/flutter_plugin_xgpush.git"
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
